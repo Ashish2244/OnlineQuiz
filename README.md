@@ -14,11 +14,12 @@ FLOW OF PROJECT
 
 
 
+CODE FLOW 
+
+![Screenshot (520)](https://user-images.githubusercontent.com/36559201/151690959-8ffa8cd0-6ff6-433a-bb20-b3f4082a04a3.png)
+
+
 USER MODULE DATABASE SCHEMA
 
 ![Screenshot (517)](https://user-images.githubusercontent.com/36559201/151690653-35d3b757-74d2-4fca-a63c-05cf6c55de38.png)
 
-
-USER MODULE FLOW 
-
-![Screenshot (520)](https://user-images.githubusercontent.com/36559201/151690959-8ffa8cd0-6ff6-433a-bb20-b3f4082a04a3.png)
