@@ -26,23 +26,7 @@ public class QuizApplication implements CommandLineRunner{
 
 	@Override
 	public void run(String... args) throws Exception {
-		/*
-		 * User user=new User(); user.setFirstName("Ashish");
-		 * user.setLastName("Gunjan"); user.setUsername("ashishgunjan");
-		 * user.setPassword("abc"); user.setEmail("abc@gmail.com");
-		 * user.setProfile("default.png");
-		 * 
-		 * Role role =new Role(); role.setRoleId(44L); role.setRoleName("Admin");
-		 * 
-		 * 
-		 * UserRole userRole=new UserRole(); userRole.setRole(role);
-		 * userRole.setUser(user);
-		 * 
-		 * Set<UserRole> userSet=new HashSet<>(); userSet.add(userRole);
-		 * 
-		 * User userGet=this.userService.createUser(user, userSet);
-		 * System.out.println("Name "+userGet.getFirstName());
-		 */
+		
 		System.out.println("Server Started");
 	}
 
